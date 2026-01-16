@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  background-color: #080b1c;
+  display: flex;
+}
+
+.row {
+  flex: 1;
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  align-items: center;
+}
+
+.formContainer {
+  width: 480px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding: 32px;
+  gap: 24px;
+}
+
+.displayContainer {
+  width: 960px;
+}
