@@ -25,7 +25,7 @@ body {
 }
 
 .formContainer {
-  width: 480px;
+  width: 25%;
 }
 
 .form {
@@ -38,5 +38,5 @@ body {
 }
 
 .displayContainer {
-  width: 960px;
+  width: 50%;
 }
